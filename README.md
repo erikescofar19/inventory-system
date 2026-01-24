@@ -1,4 +1,4 @@
-🌎 Read this in: [English](README.md) | [Español](README.es.md)
+🌎 Lee esto en:[Español](README.es.md)
 
 # 📦 Inventory Management System
 
