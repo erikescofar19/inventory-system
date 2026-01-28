@@ -1,7 +1,6 @@
+## Read this in: [English](README.md) 
 
-🌎 Read this in: [English](README.md) 
-
-# 📦 Sistema de Gestión de Inventarios
+#  Sistema de Gestión de Inventarios
 
 Sistema completo de gestión de inventarios compuesto por un **backend REST API** y un **frontend web**, desarrollado como proyecto profesional para portafolio.
 
@@ -9,14 +8,14 @@ Este sistema permite autenticar usuarios, gestionar productos, controlar stock, 
 
 ---
 
-## 🧱 Arquitectura del sistema
+##  Arquitectura del sistema
 
 El proyecto está dividido en dos aplicaciones independientes:
 
-### 🔙 Backend – Inventory API
+###  Backend – Inventory API
 API REST desarrollada con Node.js y MongoDB.
 
-👉 [Ir al repositorio Backend](./inventory-backend)
+ [Ir al repositorio Backend](./inventory-backend)
 
 **Responsabilidades:**
 - Autenticación con JWT
@@ -28,10 +27,10 @@ API REST desarrollada con Node.js y MongoDB.
 
 ---
 
-### 🖥️ Frontend – Inventory Frontend
+###  Frontend – Inventory Frontend
 Aplicación web desarrollada con React + Vite.
 
-👉 [Ir al repositorio Frontend](./inventory-frontend)
+ [Ir al repositorio Frontend](./inventory-frontend)
 
 **Responsabilidades:**
 - Login de usuarios
@@ -43,7 +42,7 @@ Aplicación web desarrollada con React + Vite.
 
 ---
 
-## 📂 Estructura general del proyecto
+##  Estructura general del proyecto
 
 ```bash
 inventory-system/
@@ -57,7 +56,7 @@ inventory-system/
 └── README.es.md
 ```
 
-🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 Backend
 Node.js
 
@@ -84,7 +83,7 @@ CSS
 
 Autenticación JWT
 
-🎯 Objetivo del proyecto
+## Objetivo del proyecto
 Este proyecto fue desarrollado como práctica profesional, enfocado en:
 
 Arquitectura limpia
@@ -99,7 +98,7 @@ Escalabilidad
 
 Buenas prácticas de desarrollo
 
-🧑‍💻 Autor
+## Autor
 Erik Eduardo Escobar Farías
 
 Proyecto fullstack desarrollado con fines profesionales y de portafolio, simulando un sistema real utilizado en negocios como cafeterías, tiendas y pequeños almacenes.
