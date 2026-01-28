@@ -1,6 +1,6 @@
-🌎 Lee esto en:[Español](README.es.md)
+## Lee esto en:[Español](README.es.md)
 
-# 📦 Inventory Management System
+#  Inventory Management System
 
 A complete inventory management system composed of a **REST API backend** and a **web frontend**, designed as a professional fullstack project for portfolio purposes.
 
@@ -8,14 +8,14 @@ This system allows user authentication, product management, stock control, input
 
 ---
 
-## 🧱 System Architecture
+##  System Architecture
 
 The project is divided into two independent applications:
 
-### 🔙 Backend – Inventory API
+###  Backend – Inventory API
 REST API built with Node.js and MongoDB.
 
-👉 [Go to Backend Repository](./inventory-backend)
+ [Go to Backend Repository](./inventory-backend)
 
 **Responsibilities:**
 - JWT-based authentication
@@ -30,7 +30,7 @@ REST API built with Node.js and MongoDB.
 ### 🖥️ Frontend – Inventory Frontend
 Web application built with React + Vite.
 
-👉 [Go to Frontend Repository](./inventory-frontend)
+ [Go to Frontend Repository](./inventory-frontend)
 
 **Responsibilities:**
 - User login
@@ -42,7 +42,7 @@ Web application built with React + Vite.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 inventory-system/
@@ -56,7 +56,7 @@ inventory-system/
 └── README.es.md
 ```
 
-🚀 Technologies Used
+## Technologies Used
 Backend
 
 Node.js
@@ -85,7 +85,7 @@ CSS
 
 JWT Authentication
 
-🎯 Project Purpose
+## Project Purpose
 
 This project was developed as professional practice, focused on:
 
@@ -101,7 +101,7 @@ Scalability
 
 Best development practices
 
-🧑‍💻 Author
+## Author
 
 Erik Eduardo Escobar Farías
 
