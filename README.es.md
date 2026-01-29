@@ -92,7 +92,7 @@ Separación de responsabilidades
 
 Seguridad con JWT
 
-Consumo real de APIs REST
+Consumo real de APIs RESTt 
 
 Escalabilidad
 
