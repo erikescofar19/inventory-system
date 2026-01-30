@@ -15,7 +15,7 @@ The project is divided into two independent applications:
 ###  Backend – Inventory API
 REST API built with Node.js and MongoDB.
 
- [Go to Backend Repository](https://github.com/ederick/inventory-backend)
+ [Go to Backend Repository](https://github.com/erikescofar19/inventory-backend)
 
 **Responsibilities:**
 - JWT-based authentication
@@ -30,7 +30,7 @@ REST API built with Node.js and MongoDB.
 ###  Frontend – Inventory Frontend
 Web application built with React + Vite.
 
-[Go to Frontend Repository](https://github.com/ederick/inventory-frontend)
+[Go to Frontend Repository](https://github.com/erikescofar19/inventory-frontend)
 
 **Responsibilities:**
 - User login
